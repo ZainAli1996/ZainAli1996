@@ -29,7 +29,7 @@ Currently, I’m **deepening my skills in React.js, Next.js, and TypeScript** to
 ## 📌 Featured Projects
 
 ### **1. Single-Page Furniture Website Design**
-[🔗 Live Demo](https://single-page-website.web.app) | [💻 Source Code](https://github.com/ZainAli1996/single-page-furniture-website)  
+[🔗 Live Demo](https://single-page-website.web.app) | [💻 Source Code](https://github.com/ZainAli1996/react-landing-page-design)  
 - **Tech Stack:** React.js, TypeScript  
 - A **modern, responsive landing page** originally designed for a furniture website.  
 - Can be customized for any small business or personal portfolio.
@@ -59,4 +59,4 @@ I’m open to **collaborations, freelance opportunities, and frontend developer 
 
 ---
 
-⭐ **Check out my repositories, feedback and collaboration are always welcome!**
+⭐ **Check out my repositories below — let’s collaborate and make something great together!**
